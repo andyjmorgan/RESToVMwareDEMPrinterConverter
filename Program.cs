@@ -98,7 +98,6 @@ namespace RESToDEMPrinterMigrator
 
 
             var AllPrinters = BuildingBlock.buildingblock.powerlaunch.Where(x => x.printermapping != null).SelectMany(x => x.printermapping).ToList();
-            var split = AllPrinters[0].printer.Remove(0, 2).Split('\\');
             var AllPrinterNames = AllPrinters.Select(x => new { PrinterName = string.Format("{0} on {1}", x.printer.Remove(0, 2).Split('\\')[1], x.printer.Remove(0, 2).Split('\\')[0]) }).Select(x => x.PrinterName).ToList();
 
             Console.WriteLine("Detected: {0} printer mappings. Unique Printers: {1}", AllPrinters.Count(), AllPrinterNames.Distinct().Count());
