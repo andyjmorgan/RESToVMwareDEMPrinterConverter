@@ -83,6 +83,7 @@ namespace RESToDEMPrinterMigrator
 
             HandleArguments(args);
 
+
             XmlSerializer DEMserializer = new XmlSerializer(typeof(DEMPrinterMapping.UserEnvironmentSettings), "");
             XmlSerializer RESserializer = new XmlSerializer(typeof(RESBlock.respowerfuse));
 
@@ -91,7 +92,7 @@ namespace RESToDEMPrinterMigrator
 
             RESBlock.respowerfuse BuildingBlock = new RESBlock.respowerfuse();
 
-            using (Stream reader = new FileStream(@"C:\Users\andy\OneDrive - VMware, Inc\Dev\RES TO DEM\RESPrinterMaster.xml", FileMode.Open))
+            using (Stream reader = new FileStream(SourceFilePath, FileMode.Open))
             {
                 BuildingBlock = (RESBlock.respowerfuse)RESserializer.Deserialize(reader);
             };
