@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<userEnvironmentSettings>
+  <conditions>
+    <or>
+      <tsclient v="AHNAVIWEXT" o="starts" />
+    </or>
+  </conditions>
+  <setting type="printerMapping" async="1" remote="\\PSPRI02\AHNAVIWEXP01" default="0" label="Unknown" tag="Unknown" undo="1" runOnce="0" />
+</userEnvironmentSettings>

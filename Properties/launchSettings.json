@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RESToDEMPrinterMigrator": {
+      "commandName": "Project",
+      "commandLineArgs": "-source=\"C:\\Users\\andy\\OneDrive - VMware, Inc\\Dev\\RES TO DEM\\RESPrinterMaster.xml\" -destination=\"C:\\Users\\andy\\OneDrive - VMware, Inc\\Dev\\RES TO DEM\\export\""
+    }
+  }
+}

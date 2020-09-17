@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MTdMR02HYZh/+JOcAEmWT60xp3FvTFfL13pN3ORMGyqirfj7y4vi4BCPbhjlE+rXAjw6nZI+sQXuaO2LyRx8FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andy\\source\\repos\\RESToDEMPrinterMigrator\\RESToDEMPrinterMigrator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andy\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.4\\microsoft.netcore.app.runtime.win-x86.3.1.4.nupkg.sha512",
+    "C:\\Users\\andy\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.4\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.4.nupkg.sha512",
+    "C:\\Users\\andy\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.4\\microsoft.aspnetcore.app.runtime.win-x86.3.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
