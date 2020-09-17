@@ -4,6 +4,7 @@ C:\Users\andy\source\repos\RESToDEMPrinterMigrator\bin\Debug\netcoreapp3.1\RESTo
 C:\Users\andy\source\repos\RESToDEMPrinterMigrator\bin\Debug\netcoreapp3.1\RESToDEMPrinterMigrator.runtimeconfig.dev.json
 C:\Users\andy\source\repos\RESToDEMPrinterMigrator\bin\Debug\netcoreapp3.1\RESToDEMPrinterMigrator.dll
 C:\Users\andy\source\repos\RESToDEMPrinterMigrator\bin\Debug\netcoreapp3.1\RESToDEMPrinterMigrator.pdb
+C:\Users\andy\source\repos\RESToDEMPrinterMigrator\obj\Debug\netcoreapp3.1\RESToDEMPrinterMigrator.csprojAssemblyReference.cache
 C:\Users\andy\source\repos\RESToDEMPrinterMigrator\obj\Debug\netcoreapp3.1\RESToDEMPrinterMigrator.csproj.CoreCompileInputs.cache
 C:\Users\andy\source\repos\RESToDEMPrinterMigrator\obj\Debug\netcoreapp3.1\RESToDEMPrinterMigrator.AssemblyInfoInputs.cache
 C:\Users\andy\source\repos\RESToDEMPrinterMigrator\obj\Debug\netcoreapp3.1\RESToDEMPrinterMigrator.AssemblyInfo.cs
